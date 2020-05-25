@@ -22,4 +22,16 @@
 
 .backToHome {
   margin: 3rem 0 0;
+  
+}
+
+.makewhite {
+  color:white;
+}
+.iscentered{
+  padding-top: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
 }
