@@ -18,7 +18,7 @@ export default function Project({ projectData }) {
         </div>
         View 
         <a href={projectData.github}> Github </a> or
-        <a href={projectData.github}> Website</a>
+        <a href={projectData.website}> Website</a>
         <div dangerouslySetInnerHTML={{ __html: projectData.contentHtml }} />
         <iframe src={projectData.image} width="640" height="480"></iframe>
       </article>

@@ -1,5 +1,5 @@
 ---
-title: "JamSpot Venue Booking"
+title: "JamSpot Venue Booking with Python, Postgres and Jinja"
 date: "2020-05-22"
 image: "https://drive.google.com/file/d/10SbPapdFgyiZwIXiOf9vol8KDWaimecd/preview"
 github: "https://github.com/baileyritchie/JamSpot"
