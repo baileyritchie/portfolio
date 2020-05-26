@@ -15,7 +15,11 @@ export default function Now() {
         <ul className={utilStyles.list}>
           <li className={utilStyles.listItem}>
             <h3>Work 👩‍💻</h3>
-            <p> Currently working on a few web development projects. </p>
+            <p> Currently working on a few web development projects/ideas. One project that I'm exploring is
+              a service aimed at helping CS/university students map out their group projects, that could potentially integrate
+              different services such as Slack, Notion, and Github for streamlined sign up and project start-ups.
+              I'm also exploring front-end frameworks such as Next Js and CSS frameworks
+              such as Bulma and Tailwind.</p>
           </li>
           <li className={utilStyles.listItem}> 
             <h3>Interests 📚</h3>
@@ -26,7 +30,7 @@ export default function Now() {
           </li>
           <li> 
             <h3> Where am I? 🌍 </h3>
-            <p> Presently located in Pittsburgh, Pennsylvania.</p>
+            <p> Currently located in Pittsburgh, Pennsylvania.</p>
           </li>
 
 
