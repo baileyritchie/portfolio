@@ -11,6 +11,7 @@ export default function Home({ allPostsData,allProjectsData }) {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <section className={utilStyles.headingMd}>
         <p> Hi, I'm Bailey! 👋 </p>
@@ -30,7 +31,7 @@ export default function Home({ allPostsData,allProjectsData }) {
         <p className={utilStyles.makewhite}>--</p>
         <p>|</p>
         <p className={utilStyles.makewhite}>--</p>
-        <Link href="/notavailableyet" >
+        <Link href="https://drive.google.com/file/d/11A5h2bRdxggYDV0mqRSqu-CcZXPQaqnv/view?usp=sharing" >
                 <a> Resume </a> 
         </Link>
         <p className={utilStyles.makewhite}>--</p>

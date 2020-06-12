@@ -1,5 +1,5 @@
 ---
-title: "Food finder application built with Node.Js and SSR"
+title: "Food finder application built with Node.js and SSR"
 date: "2020-05-21"
 image: "https://drive.google.com/file/d/1IY5LRaRyEOuKMXk4ohUq7KFnvU4wCYCY/preview"
 github: "https://github.com/baileyritchie/deliciousfoodapp"
